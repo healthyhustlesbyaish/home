@@ -5,12 +5,12 @@ body {
     margin: 0;
     padding: 0;
     color: #333;
-    background-color: #f9f9f9;
+    background-color: #8A2BE2;
 }
 
 /* Header styles */
 header {
-    background-color: #4CAF50;
+    background-color: ##8A2BE2;
     color: white;
     text-align: center;
     padding: 1rem 0;
@@ -45,7 +45,7 @@ a:hover {
 
 /* Footer styles */
 footer {
-    background-color: #4CAF50;
+    background-color: #8A2BE2;
     color: white;
     text-align: center;
     padding: 10px 0;
